@@ -1,0 +1,47 @@
+
+.left{
+    background-color: rgb(250, 245, 245);
+    width: 320px;
+    height: 850px;
+    float: left;
+   
+}
+.button{
+    background-color: rgb(89, 89, 247);
+    border-spacing: 10px;
+    padding: 10% 10%;
+    margin-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    float:5px;
+        
+}
+
+
+.right{
+    
+   width: 600px;
+    height: 1000px;
+    margin-left:350px;
+    margin-right:-850px;
+}
+.photo{
+    width:580px;
+}
+
+    
+
+.ptn{
+    background-color: rgb(8, 230, 230);
+    margin-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border:none;
+    padding: -1% -1%;
+    float:right;
+    
+  
+
+}
